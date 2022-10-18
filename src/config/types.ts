@@ -9,7 +9,7 @@ export type RootStackParamList = {
 };
 
 export type NavigationProps = {
-    navigation: ScreenNavigationProp | any;
+    navigation: ScreenNavigationProp;
 };
 
 export type CalcButtonProps = {
